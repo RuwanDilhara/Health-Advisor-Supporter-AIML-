@@ -1,0 +1,21 @@
+{
+    "diseases": [
+      {
+        "name": "Flu",
+        "symptoms": ["fever", "cough", "fatigue", "headache"]
+      },
+      {
+        "name": "Cold",
+        "symptoms": ["cough", "sore throat", "runny nose"]
+      },
+      {
+        "name": "COVID-19",
+        "symptoms": ["fever", "cough", "fatigue", "shortness of breath"]
+      },
+      {
+        "name": "Asthma",
+        "symptoms": ["shortness of breath", "cough", "wheezing"]
+      }
+    ]
+  }
+  
